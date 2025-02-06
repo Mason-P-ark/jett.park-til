@@ -2,7 +2,7 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
-### [2월 1째주, 2주차] : 네트워크 
+### [2월 1째주, 2주차] : 네트워크 / 패킷 트레이서
 
 25.02.03 작성 ([상세 내역 링크](https://github.com/Mason-P-ark/jett.park-til/blob/main/Feb/2025-02-03))
 
